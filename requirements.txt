@@ -1,0 +1,8 @@
+flask
+flask-cors
+pillow
+diffusers
+transformers
+torch
+requests
+python-dotenv
